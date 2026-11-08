@@ -1,6 +1,8 @@
-# Screenshot Exact Match
+# Maayaa The Cafe
 
-Implement exactly the screenshot and nothing else
+Website for Maayaa The Cafe.
+
+**Live site:** [https://maayaa-the-cafe.vercel.app](https://maayaa-the-cafe.vercel.app)
 
 This project was built with [Lovable](https://lovable.dev).
 
